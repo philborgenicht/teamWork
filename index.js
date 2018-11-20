@@ -3,7 +3,7 @@ let phil = {
   color:"white",
   face:"busted",
   appearance:"soft",
-  age: 59,g
+  age: 59,
 
 }
 
