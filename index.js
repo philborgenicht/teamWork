@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
   let phil = {
     color:"white",
     face:"busted",
-    appearance:"soft",
+    appearance:"chisled like a god",
     age: 59,
 
   }
