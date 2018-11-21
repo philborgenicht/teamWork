@@ -1,6 +1,15 @@
 body {
   background-color: black;
   color: white;
+  font-family: serif;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+}
+
+p{
+  font-size: 50px;
+  color: blue
 }
 
 h1 {
